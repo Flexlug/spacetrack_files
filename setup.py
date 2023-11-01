@@ -7,7 +7,7 @@ def readme():
 
 setup(
   name='spacetrack_files',
-  version='0.0.1',
+  version='0.0.2',
   author='Flexlug',
   author_email='flexlug@outlook.com',
   description='Simple module for ephemeris download and parse',
