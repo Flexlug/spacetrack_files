@@ -1,4 +1,4 @@
-# StarlinkEphemeris
+# spacetrack_files
 
 This module allows you to download and parse Starlink ephemeris files.
 

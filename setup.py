@@ -13,7 +13,7 @@ setup(
   description='Simple module for ephemeris download and parse',
   long_description=readme(),
   long_description_content_type='text/markdown',
-  url='your_url',
+  url='https://github.com/Flexlug/spacetrack_files',
   packages=find_packages(),
   install_requires=[
     'requests>=2.31.0', 
