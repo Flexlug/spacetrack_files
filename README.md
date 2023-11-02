@@ -7,7 +7,7 @@ This module allows you to download and parse Starlink ephemeris files.
 Simply add this module via `pip`
 
 ```
-pip install starlink_files
+pip install spacetrack_files
 ```
 
 ## Using
